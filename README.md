@@ -2,6 +2,7 @@
 CapitalCord is a PowerCord only plugin, it simply liberates your rights in so many ways! 
 When the word "powercord" is said in chat with a lowercase "c", it will automatically be changed client side to show with an uppercase "C" instead.
 
+
 # Previews
 before:
 
@@ -13,6 +14,12 @@ after:
 
 # Special Thanks
 Special thanks to [e-boi](https://github.com/e-boi), wouldn't have been able to make this without you.
+
+# F.A.Q
+
+Q: Does it interfere with any messages?
+    A: Version 1.0 may have but version 1.1 has now fixed that bug.
+
 
 # Installation 
 
