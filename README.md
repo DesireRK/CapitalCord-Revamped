@@ -3,7 +3,7 @@ This simple plugins allows for free speach within the powerCord server.
 
 # How does it work?
 CapitalCord is a PowerCord only plugin, it simply liberates your rights in so many ways! 
-Anytime the word "powercord" is said with a lowercase "c", it will automatically be changed ( client side ) to show with a uppercase "C" instead.
+When the word "powercord" is said in chatwith a lowercase "c", it will automatically be changed client side to show with an uppercase "C" instead.
 
 # Previews
 before:
