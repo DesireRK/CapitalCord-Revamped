@@ -1,12 +1,9 @@
 # CapitalCord 
-Liberate yourself!
-
-# What's the Point?
-Tired of powerCord mods liberating you from your well earned rights? Well fear no more! now with CapitalCord, you may speak with your hearts content.
+This simple plugins allows for free speach within the powerCord server.
 
 # How does it work?
-You may ask, what does CapitalCord do? CapitalCord is a PowerCord only plugin, it simply liberates your rights in so many ways! 
-Anytime the word "powercord" is said with a lowercase "c", it will automatically be changed to display as "powerCord" client side.
+CapitalCord is a PowerCord only plugin, it simply liberates your rights in so many ways! 
+Anytime the word "powercord" is said with a lowercase "c", it will automatically be changed ( client side ) to show with a uppercase "C" instead.
 
 # Previews
 before:
@@ -18,7 +15,7 @@ after:
 ![CapitalCordAfter](https://user-images.githubusercontent.com/72703954/129499313-c34c7d47-05b8-477a-888b-f118b0250623.png)
 
 # Special Thanks
-Special thanks to https://github.com/e-boi/, wouldn't have been able to make this without you.
+Special thanks to [e-boi](https://github.com/e-boi), wouldn't have been able to make this without you.
 
 # Installation 
 
