@@ -1,7 +1,7 @@
 # CapitalCord
-Tired of powerCord mods liberating you from your well earned rights? Well fear no more! now with CapitalCord, you may speak with your heart's content!
+Tired of powerCord mods liberating you from your well earned rights? Well fear no more! now with CapitalCord, you may speak with your hearts content.
 
-You may ask, what does CapitalCord do? CapitalCord is a PowerCord only plugin simply liberates your rights in so many ways! 
+You may ask, what does CapitalCord do? CapitalCord is a PowerCord only plugin, it simply liberates your rights in so many ways! 
 Anytime the word "powercord" is said with a lowercase "c", it will automatically be changed to display as "powerCord" client side.
 
 # Previews
