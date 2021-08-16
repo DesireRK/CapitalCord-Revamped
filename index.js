@@ -3,12 +3,13 @@ const { inject, uninject } = require('powercord/injector');
 const { getModule } = require('powercord/webpack');
 const { findInReactTree } = require('powercord/util');
 
-module.exports = class BlockAllMessages extends Plugin {
+module.exports = class CaptialCord extends Plugin {
 	startPlugin() {
 		const Message = getModule(m => (m.__powercordOriginal_default || m.default)?.toString().includes('childrenRepliedMessage'), false);
 
-		inject('powercord-pl', Message, 'default', (args, res) => {
+		inject('captialcord', Message, 'default', (_, res) => {
 			const msg = findInReactTree(res, n => n.message);
+			if (msg.message.author.id === getModule(['getCurrentUser'], false).getCurrentUser()?.id) return res;
 			msg.message.content = msg.message.content.replace(/powercord|Power cord|power cord|Powercord/g, 'powerCord');
 			return res;
 		});
@@ -17,6 +18,6 @@ module.exports = class BlockAllMessages extends Plugin {
 	}
 
 	pluginWillUnload() {
-		uninject('powercord-pl');
+		uninject('captialcord');
 	}
 };
