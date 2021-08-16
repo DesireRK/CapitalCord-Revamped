@@ -18,4 +18,4 @@ Special thanks to [e-boi](https://github.com/e-boi), wouldn't have been able to 
 
 Paste the following into command prompt: 
 
-`cd powercord/src/Powercord/plugins && git clone https://github.com/DesireRK/CapitalCord.git`
+`cd powercord/src/Powercord/plugins && git clone https://github.com/DesireRK/CapitalCord`
